@@ -15,13 +15,15 @@ This is a simple Todo List application built using React JS. It allows you to ad
 
    [Todo List App](https://github.com/mkkapadi12/todo_list)
 
-3. **Project B** - A brief description of what the project does.
+3. **Textutils App** -
+TextUtils is a web application built with React.js that allows users to manipulate and analyze text easily. Whether you want to format, clean, or analyze text data, TextUtils has you covered. It offers a range of text transformation and analysis tools to simplify your tasks.
 
-   [Link to Project B](https://github.com/yourusername/project-b)
+   [Textutils App](https://github.com/mkkapadi12/Textutils)
 
-4. **Project C** - A brief description of what the project does.
+5. **News App** -
+News App is a web application developed with React.js that allows users to browse and read the latest news articles from various sources. It fetches real-time news data from a News API and provides a user-friendly interface for exploring and staying updated on current events.
 
-   [Link to Project C](https://github.com/yourusername/project-c)
+   [News App](https://github.com/mkkapadi12/newsapp/)
 
 ## Contributions
 
@@ -29,20 +31,10 @@ I enjoy collaborating with others and contributing to open-source projects. If y
 
 ## Get in Touch
 
-You can contact me through GitHub or reach out to me through email at your.email@example.com.
+You can contact me through GitHub or reach out to me through email at mayurkapadi12@gmail.com
 
 ## Follow Me
 
 If you like what you see on my GitHub, consider following me for updates on my latest projects and activities.
 
-## License
-
-All my open-source projects are typically available under the MIT License or an appropriate open-source license. Be sure to check the individual project repositories for specific licensing details.
-
-I'm excited to connect with fellow developers and collaborate on interesting projects. Feel free to explore my repositories and get in touch if you have any questions or ideas for collaboration.
-
 Happy coding!
-
----
-
-Customize this README.md with your personal details, projects, and any other information you'd like to share on your GitHub profile.
