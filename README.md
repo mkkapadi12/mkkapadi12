@@ -28,8 +28,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mkkapadi12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## Top Respositorys
+  <p align="left">
+     <a href="https://github.com/mkkapadi12/mayurEcommerce"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mkkapadi12&repo=mayurEcommerce&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/mkkapadi12/portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mkkapadi12&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/mkkapadi12/FreshStart"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mkkapadi12&repo=FreshStart&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mkkapadi12&icon=0&color=0)](https://visitcount.itsvg.in)
