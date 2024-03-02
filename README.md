@@ -1,40 +1,41 @@
-### Hi there 👋 I'm Mayur Kapadi
+<h1 align="center">Hi 👋, I'm Mayur Kapadi</h1>
+<h3 align="center">A Passionate Web Developer.</h3>
 
-Welcome to my GitHub profile! Here you'll find a collection of projects, repositories, and code that I've worked on. Feel free to explore, contribute, or collaborate on these projects. If you have any questions or want to get in touch, you can reach out to me through GitHub.
+# 💫 About Me:
+🔭 I’m currently working on my Skills.<br>
+🌱 I’m currently learning more about Web Development.<br>
+🤝 I’m looking for help with Exploring New Technologies.<br>
+💬 Ask me about any tech-related stuff.<br>
+⚡ Fun fact : My favourite song is Grateful by Neffex.<br>
+😄 Pronouns : He/His <br>
+📫 How to reach me mayurkapadi12@gmail.com<br>
+👨‍💻 All of my projects are available at https://mayurkapadiportfolio.netlify.app/
 
-## About Me
 
-I'm a passionate developer who loves building software and exploring new technologies. I enjoy creating web applications, mobile apps, and contributing to open-source projects. My goal is to learn and grow as a developer while helping others through the code and projects I create.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mk_mayur_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mayurkapadi24) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/mkkapadi12) 
 
-## Projects
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mkkapadi12&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mkkapadi12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mkkapadi12&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Here are some of the projects you can find in my GitHub repositories:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-1. **Todo List** -
-This is a simple Todo List application built using React JS. It allows you to add, edit, and delete tasks, as well as mark them as completed or incomplete. The app provides a user-friendly interface to manage your daily tasks and stay organized.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mkkapadi12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-   [Todo List App](https://github.com/mkkapadi12/todo_list)
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-3. **Textutils App** -
-TextUtils is a web application built with React.js that allows users to manipulate and analyze text easily. Whether you want to format, clean, or analyze text data, TextUtils has you covered. It offers a range of text transformation and analysis tools to simplify your tasks.
+---
+[![](https://visitcount.itsvg.in/api?id=mkkapadi12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-   [Textutils App](https://github.com/mkkapadi12/Textutils)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mayurkapadi) 
 
-5. **News App** -
-News App is a web application developed with React.js that allows users to browse and read the latest news articles from various sources. It fetches real-time news data from a News API and provides a user-friendly interface for exploring and staying updated on current events.
-
-   [News App](https://github.com/mkkapadi12/newsapp/)
-
-## Contributions
-
-I enjoy collaborating with others and contributing to open-source projects. If you have a project that you think I can help with, please feel free to reach out. I'm always open to interesting opportunities and challenges.
-
-## Get in Touch
-
-You can contact me through GitHub or reach out to me through email at mayurkapadi12@gmail.com
-
-## Follow Me
-
-If you like what you see on my GitHub, consider following me for updates on my latest projects and activities.
-
-Happy coding!
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
