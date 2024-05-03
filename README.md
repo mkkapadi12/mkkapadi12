@@ -9,7 +9,7 @@
 ⚡ Fun fact : My favourite song is Grateful by Neffex.<br>
 😄 Pronouns : He/His <br>
 📫 How to reach me mayurkapadi12@gmail.com<br>
-👨‍💻 All of my projects are available at https://mayurkapadiportfolio.netlify.app/
+👨‍💻 All of my projects are available at https://mayurkapadi24.vercel.app
 
 
 ## 🌐 Socials:
